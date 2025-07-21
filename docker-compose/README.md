@@ -1,4 +1,4 @@
-## demo app - for docker-compose
+## docker-compose-demo
 
 
 ### With Docker
